@@ -1,0 +1,5 @@
+mongokit>=0.9.1.1
+requests>=2.4.3
+requests-oauthlib>=0.4.2
+TwitterAPI>=2.2.7.3
+simplejson>=3.6.5
