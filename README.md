@@ -48,3 +48,21 @@ ipython notebook --matplotlib=inline
 
 Then access [ipython notebook](http://localhost:8888)
 and open `analyze.ipynb`.
+
+## Group Work
+
+#### Lu Wang
+
+* `collector`
+* Collecting Data
+* Technique Support
+* Report
+* Presentation
+
+#### Hang Li
+
+* `analyzer`
+* Draw plots
+* Project Proposal
+* Report
+* Presentation
